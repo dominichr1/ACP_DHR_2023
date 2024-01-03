@@ -34,7 +34,7 @@ See below for figure and corresponding notebook:
 
 Notebooks	Description
 
-Harmonisation_inc_figure1	compare instruments:
+***Harmonisation_inc_figure1	compare instruments:***
 applying correction factors
 produce harmonised timeseries 
 
